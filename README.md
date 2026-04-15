@@ -1,6 +1,6 @@
-Server = npm install
+Server = npm install and 
          npm run dev
 
-Client = npm install
+Client = npm install and
          npm run dev
          
